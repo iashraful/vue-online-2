@@ -1,3 +1,5 @@
 .DS_Store
+.idea
+.vs-code
 node_modules
 npm-debug.log

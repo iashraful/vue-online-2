@@ -2,7 +2,10 @@
 
 > A reactive online/offline component for vue.js
 
-![Vue online preview](https://raw.githubusercontent.com/Sopamo/vue-online/master/preview.gif)
+![Vue online preview](https://raw.githubusercontent.com/iamashraful/vue-online-2/master/preview.gif)
+
+# Old or Un maintained Repo
+https://github.com/Sopamo/vue-online
 
 # Installation
     

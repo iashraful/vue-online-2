@@ -1,11 +1,11 @@
 {
-  "name": "vue-online",
-  "version": "1.1.9",
-  "description": "A reactive online/offline component for vue.js",
+  "name": "vue-online-2",
+  "version": "2.0.0",
+  "description": "A reactive online/offline component for vue.js 2",
   "main": "./main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sopamo/vue-online.git"
+    "url": "git+https://github.com/iamashraful/vue-online-2.git"
   },
   "keywords": [
     "vue",
@@ -17,12 +17,12 @@
     "vue-online-component",
     "vue-offline-component"
   ],
-  "author": "Sopamo GmbH",
+  "author": "Ashraful Islam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sopamo/vue-online/issues"
+    "url": "https://github.com/iamashraful/vue-online-2/issues"
   },
-  "homepage": "https://github.com/Sopamo/vue-online#readme",
+  "homepage": "https://github.com/iamashraful/vue-online-2#readme",
   "peerDependencies": {
     "vue": "2.x.x"
   }
