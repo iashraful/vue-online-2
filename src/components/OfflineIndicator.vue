@@ -32,7 +32,9 @@
 
 <script>
   const VueOnline = require('../VueOnline')
+  
   module.exports = {
+    name: 'OfflineIndicator',
     props: ['message'],
     computed: {
       isOnline() {

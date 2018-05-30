@@ -21,7 +21,7 @@ That's a basic example of a component which would just show the offline message 
     </template>
 
     <script>
-    import { OfflineIndicator } from 'vue-online'
+    import { OfflineIndicator } from 'vue-online-2'
 
     export default {
       name: 'app',
