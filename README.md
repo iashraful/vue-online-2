@@ -9,7 +9,7 @@ https://github.com/Sopamo/vue-online
 
 # Installation
     
-    npm install vue-online2 --save-dev
+    npm install vue-online-2 --save-dev
 
 # Usage
 That's a basic example of a component which would just show the offline message if the user has no connection:
